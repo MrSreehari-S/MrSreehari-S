@@ -1,20 +1,19 @@
-# 👋 Hi there, I'm Sreehari S  
-
-💻 **Full Stack Developer**  
-🚀 Passionate about building modern, scalable web applications  
-🧠 Always learning and exploring new tech
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Sreehari+S;Full+Stack+Developer;Tech+Enthusiast+%7C+Lifelong+Learner;Building+cool+things+on+the+web!)](https://git.io/typing-svg)
 
 ---
 
-## ⚡ About Me
-- 🔭 I’m currently working on exciting MERN stack projects  
-- 🌱 Learning **Next.js** to level up my full stack skills  
-- 💬 Ask me about **Web Development, JavaScript, React, Node.js, Python, MySQL**  
-- 📫 Reach me at **[sreehari200411@gmail.com](mailto:sreehari200411@gmail.com)**  
+## 💫 About Me
+🌟 Full Stack Developer passionate about creating user-friendly and scalable web apps.  
+💻 Currently exploring **Next.js** & advanced MERN stack concepts.  
+🚀 Love solving problems and learning new technologies.  
+📬 Reach me: **[sreehari200411@gmail.com](mailto:sreehari200411@gmail.com)**  
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
+
+**Languages & Tools:**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
@@ -26,17 +25,41 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Sreehari's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight" alt="Sreehari's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUserName&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=tokyonight" height="160" />
+</p>
 
 ---
 
-## 🌐 Let's Connect
-📧 **[Email Me](mailto:sreehari200411@gmail.com)**  
-💼 Add your [LinkedIn](https://www.linkedin.com/) or [Portfolio Website](#) here
+## 💼 Featured Projects
+🌟 Here are some cool things I’ve built:
+
+- 📝 **Project 1** — A MERN stack app with authentication and real-time updates  
+- 📊 **Project 2** — A responsive dashboard with charts and analytics  
+- ⚡ **Project 3** — A portfolio site built with Next.js  
+
+(*Pin your best projects from your GitHub so they show up on your profile.*)
+
+---
+
+## 🌐 Connect With Me
+📫 [Email](mailto:sreehari200411@gmail.com)  
+💼 [LinkedIn](#) — *(Add your LinkedIn URL)*  
+🌍 [Portfolio](#) — *(Add your portfolio link)*
+
+---
+
+> 💖 _“Code is like humor. When you have to explain it, it’s bad.”_  
+> — Cory House
