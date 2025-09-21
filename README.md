@@ -7,7 +7,7 @@
 🌟 Full Stack Developer passionate about creating user-friendly and scalable web apps.  
 💻 Currently exploring **Next.js** & advanced MERN stack concepts.  
 🚀 Love solving problems and learning new technologies.  
-📬 Reach me: **[sreehari200411@gmail.com](mailto:sreehari200411@gmail.com)**  
+📬 Reach me: **📫 Email: [sreehari200411@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sreehari200411@gmail.com)**  
 
 ---
 
@@ -44,7 +44,7 @@
 ---
 
 ## 🌐 Connect With Me
-📫 **[Email](mailto:sreehari200411@gmail.com)**  
+📫 **[sreehari200411@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sreehari200411@gmail.com)**  
 💼 **[LinkedIn](https://www.linkedin.com/in/mrsreehari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
 
 ---
