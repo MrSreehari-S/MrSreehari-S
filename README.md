@@ -43,21 +43,9 @@
 
 ---
 
-## 💼 Featured Projects
-🌟 Here are some cool things I’ve built:
-
-- 📝 **Project 1** — A MERN stack app with authentication and real-time updates  
-- 📊 **Project 2** — A responsive dashboard with charts and analytics  
-- ⚡ **Project 3** — A portfolio site built with Next.js  
-
-(*Pin your best projects from your GitHub so they show up on your profile.*)
-
----
-
 ## 🌐 Connect With Me
-📫 [Email](mailto:sreehari200411@gmail.com)  
-💼 [LinkedIn](#) — *(Add your LinkedIn URL)*  
-🌍 [Portfolio](#) — *(Add your portfolio link)*
+📫 **[Email](mailto:sreehari200411@gmail.com)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/mrsreehari?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
 
 ---
 
