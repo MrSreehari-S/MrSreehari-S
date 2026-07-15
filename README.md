@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sreehari%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sreehari%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header"/>
 
 <a href="https://github.com/MrSreehari-S">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=560&lines=Building+a+Competitive+Coding+Platform+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -46,7 +46,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MrSreehari-S&theme=darkhub&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSreehari-S&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrSreehari-S&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
 </p>
 
 <br/>
@@ -54,7 +54,7 @@
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrSreehari-S&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MrSreehari-S&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
 </div>
 
 <br/>
