@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sreehari%20S&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sreehari%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=18" alt="header"/>
 
 <a href="https://github.com/MrSreehari-S">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8A63FF&center=true&vCenter=true&width=650&lines=Building+a+Competitive+Coding+Platform+%F0%9F%9A%80;MERN+Stack+%2B+Next.js+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
@@ -10,8 +9,7 @@
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sreehari200411@gmail.com"><img src="https://img.shields.io/badge/Email-8A63FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/mrsreehari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" alt="LinkedIn"/></a>
-<a href="https://github.com/MrSreehari-S"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="GitHub"/></a>
-
+<a href="https://leetcode.com/SREEHARI2004"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e" alt="LeetCode"/></a>
 </div>
 
 <br/>
@@ -29,41 +27,64 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,nextjs,mongodb,mysql,py,git,vscode&theme=dark&perline=6" alt="Tech Stack"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,mysql,html,css,tailwind,py,git,vscode&theme=dark&perline=7" alt="Tech Stack"/>
+
 </div>
 
 <br/>
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSreehari-S&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Activity Graph" width="100%"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrSreehari-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrSreehari-S&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400" alt="Top Languages"/>
+
+</div>
+
+<blockquote align="center">
+If a card above shows a 503/timeout — that's the shared free Vercel instance rate-limiting, not your data. It self-recovers, or deploy a personal instance of <a href="https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own">github-readme-stats</a> for a card that never sleeps.
+</blockquote>
+
+<br/>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=MrSreehari-S&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=86400" alt="GitHub Streak"/>
+
 </div>
 
 <br/>
 
-## 🔥 Streak & Languages
+## 🧠 Competitive Programming
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MrSreehari-S&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrSreehari-S&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/SREEHARI2004?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrSreehari-S&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&custom_title=Sreehari's%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
+
+</div>
 
 <br/>
 
 ## 🏆 Trophy Case
 
 <div align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=MrSreehari-S&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
-</div>
 
-<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=MrSreehari-S&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="Trophies"/>
 
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sreehari200411@gmail.com"><img src="https://img.shields.io/badge/Gmail-8A63FF?style=flat-square&logo=gmail&logoColor=white&labelColor=1a1a2e"/></a>
-  <a href="https://www.linkedin.com/in/mrsreehari"><img src="https://img.shields.io/badge/LinkedIn-8A63FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=1a1a2e"/></a>
 </div>
 
 <br/>
